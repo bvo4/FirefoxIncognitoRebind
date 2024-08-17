@@ -4,7 +4,9 @@ For the FireFox browser, changes the keybind of CTRL + SHIFT + N so that instead
 Ctrl + Shift + P still words as the default keybind to open a new private browser.  This script only affects Ctrl + Shift + N.
 
 Credit: -  https://searchfox.org/mozilla-release/source/browser/base/content/browser-sets.inc as a resource for the command list of all hotkeys in Firefox.
+
         -  https://support.mozilla.org/en-US/kb/customizing-firefox-using-autoconfig as a guide for using Firefox AutoConfig
+        
         - https://www.reddit.com/r/firefox/comments/kilmm2/restore_ctrlshiftb_library_by_setting_configjs/ :  Credit to u/aveyo on Reddit for providing the base code template to modifying hotkeys through a Firefox Javascript template.
 
 # Instructions
