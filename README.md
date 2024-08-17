@@ -17,6 +17,7 @@ Credit:  <br/>
 2) Download the autoconfig.js file and place it in the Mozille Firefox\defaults\pref directory.  This file will prompt the browser to load the specified script files to run.  (This process may require administrative privileges).
 
 2.5 A)  If Firefox doesn't load the autoconfig file, then in the Firefox Browser, type aboutconfig in the url.  In the page's search bar, type [general.config.filename] and set the value to the .cfg file that you wish to run.
+
 2.5 B)  In the same about:config page, search [general.config.obscure_value] and set the value to 0
 
 3) Download the firefox.cfg file and place it in the root directory of Mozilla Firefox (C:\Program Files\Mozilla Firefox\).
