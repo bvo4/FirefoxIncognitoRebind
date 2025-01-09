@@ -9,7 +9,8 @@ Credit:  <br/>
          - https://support.mozilla.org/en-US/kb/customizing-firefox-using-autoconfig as a guide for using Firefox AutoConfig
          <br/>
          - https://www.reddit.com/r/firefox/comments/kilmm2/restore_ctrlshiftb_library_by_setting_configjs/ :  Credit to u/aveyo on Reddit for providing the base code template to modifying hotkeys through a Firefox Javascript template.
-
+         <br />
+         - https://forums.mozillazine.org/viewtopic.php?t=3126988 : Credit to dickvl and morat for providing a compatibility fix for Firefox Version 134.
 # Instructions
 
 1) Locate your Mozilla Firefox root directory.  By default, this will be loated in ```C:\Program Files\Mozilla Firefox\```
